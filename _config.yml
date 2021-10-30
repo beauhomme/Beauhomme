@@ -15,15 +15,19 @@ author:
   first: Princewill
   address: Lagos, Nigeria
   last: Eze
-  dob: 01 Jan 2000
-  passion: Web Developer, Graphic Designer
-  languages: English, Gujarati, Hindi
-  image: /assets/uploads/1633258134208_1.png
+  dob: 10 Sep 2051
+  passion: Data Engineering
+  languages: "Igbo, English, French, "
+  image: /assets/uploads/bh.jpg
   nationality: Nigerian
   email: princewill.ezeidei@gmail.com
-  description: I am a Web Developer from India. I am very passionate and dedicated
-    to my work. I have 5 years more work experience. I enjoy working in a team
-    or individual.
+  description: A Data Engineer, Platform Owner, and Big Data Stack Administrator
+    charged with the  delivery of strategic data initiatives and the enablement
+    of data driven practices to  support Business operations and objectives. I
+    have a fine blend of business and  technical skills. Contributed
+    significantly towards the creation and documentation of  the Digital and
+    Data Strategy for my employer and took on the role of the data engineer  in
+    the execution of these strategies.
 social:
   facebook: ikaushalpatel
   github: mrkaushal
