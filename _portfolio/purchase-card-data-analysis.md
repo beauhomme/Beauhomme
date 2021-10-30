@@ -1,11 +1,14 @@
 ---
 layout: post
-title: Purchase Card Data Analysis
-subtitle: City of Toronto's monthly reports of its employee's expense card transactions
-date: 2021-10-15 10:45:13 -0400
-background: /img/toronto_city.jpg
 client: Self
 postdate: 15 Oct 2021
+background: /img/toronto_city.jpg
+date: 2021-10-15 10:45:13 -0400
+subtitle: City of Toronto's monthly reports of its employee's expense card transactions
+title: Purchase Card Data Analysis
+tags:
+  - name: Data analysis
+  - name: Data Cleansing
 source: https://github.com/beauhomme/toronto_pcard.git
 image: /assets/uploads/toronto_city.jpg
 ---
